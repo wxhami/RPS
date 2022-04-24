@@ -1,0 +1,16 @@
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\bin\Debug\net5.0\MyFirstGame.exe
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\bin\Debug\net5.0\MyFirstGame.deps.json
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\bin\Debug\net5.0\MyFirstGame.runtimeconfig.json
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\bin\Debug\net5.0\MyFirstGame.runtimeconfig.dev.json
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\bin\Debug\net5.0\MyFirstGame.dll
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\bin\Debug\net5.0\ref\MyFirstGame.dll
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\bin\Debug\net5.0\MyFirstGame.pdb
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\obj\Debug\net5.0\MyFirstGame.csproj.AssemblyReference.cache
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\obj\Debug\net5.0\MyFirstGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\obj\Debug\net5.0\MyFirstGame.AssemblyInfoInputs.cache
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\obj\Debug\net5.0\MyFirstGame.AssemblyInfo.cs
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\obj\Debug\net5.0\MyFirstGame.csproj.CoreCompileInputs.cache
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\obj\Debug\net5.0\MyFirstGame.dll
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\obj\Debug\net5.0\ref\MyFirstGame.dll
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\obj\Debug\net5.0\MyFirstGame.pdb
+C:\Users\vladu\RiderProjects\MyFirstGame\MyFirstGame\obj\Debug\net5.0\MyFirstGame.genruntimeconfig.cache

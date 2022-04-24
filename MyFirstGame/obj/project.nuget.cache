@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SP+gqGJ69EdOUNbhRDxdRtKZ78QG5cPcfnejafim7sDNzPSybqy0+eM3ikN84u3rFMMHGZyxYo6pk7/Y2iRvAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladu\\RiderProjects\\MyFirstGame\\MyFirstGame\\MyFirstGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
